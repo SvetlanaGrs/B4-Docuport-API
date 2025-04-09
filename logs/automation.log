@@ -1,6 +1,2 @@
-22.06.2023 21:48:50 INFO  HelloWorldApiStepDefs:30 - GET request completed with response = {
-  "message": "Hello World!"
-}
-
-22.06.2023 21:48:50 INFO  HelloWorldApiStepDefs:35 - actual status code = 200
-22.06.2023 21:48:50 INFO  HelloWorldApiStepDefs:36 - expStatusCode = 200
+05.04.2025 14:42:40 INFO  DocuportApiStepDefs:32 - username b1g1_advisor@gmail.com
+05.04.2025 14:42:40 INFO  DocuportApiStepDefs:33 - password Group1
